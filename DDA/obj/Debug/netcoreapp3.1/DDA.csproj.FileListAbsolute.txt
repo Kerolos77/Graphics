@@ -1,0 +1,15 @@
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csprojAssemblyReference.cache
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.Form1.resources
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csproj.GenerateResource.cache
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.AssemblyInfoInputs.cache
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.AssemblyInfo.cs
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csproj.CoreCompileInputs.cache
+E:\c#\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.exe
+E:\c#\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.deps.json
+E:\c#\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.runtimeconfig.json
+E:\c#\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.runtimeconfig.dev.json
+E:\c#\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.dll
+E:\c#\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.pdb
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.dll
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.pdb
+E:\c#\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.genruntimeconfig.cache

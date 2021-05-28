@@ -1,0 +1,19 @@
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.exe
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.deps.json
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.runtimeconfig.json
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.runtimeconfig.dev.json
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.dll
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.pdb
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.csprojAssemblyReference.cache
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\DDA.Form1.resources
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.csproj.GenerateResource.cache
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.AssemblyInfoInputs.cache
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.AssemblyInfo.cs
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.csproj.CoreCompileInputs.cache
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.dll
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.pdb
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.genruntimeconfig.cache
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.dll.manifest
+E:\c#\DDA\DDA\bin\Release\netcoreapp3.1\Graphics Packages.application
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.dll.manifest
+E:\c#\DDA\DDA\obj\Release\netcoreapp3.1\Graphics Packages.application

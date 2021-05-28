@@ -1,0 +1,5 @@
+E:\c#\DDA\DDA\bin\publish\Graphics Packages.exe
+E:\c#\DDA\DDA\bin\publish\Graphics Packages.dll
+E:\c#\DDA\DDA\bin\publish\Graphics Packages.deps.json
+E:\c#\DDA\DDA\bin\publish\Graphics Packages.runtimeconfig.json
+E:\c#\DDA\DDA\bin\publish\Graphics Packages.pdb
